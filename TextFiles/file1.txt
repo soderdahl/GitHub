@@ -1,5 +1,3 @@
 
-God morgon!
-God morgon igen!
+Test conflict!
 
-Adderar mer text för testning av konflikt.
