@@ -1,3 +1,5 @@
 
 God morgon!
 God morgon igen!
+
+Adderar mer text för testning av konflikt.
